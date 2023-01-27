@@ -1,0 +1,16 @@
+{
+  "name": "node-hello",
+  "version": "1.0.0",
+  "description": "A minimal node app to practice github actions and docker images",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/amirhossein-shakeri/node-hello"
+  },
+  "author": "Amirhossein Shakeri <amirhossein.shakeri.work@gmail.com>",
+  "license": "MIT"
+}
